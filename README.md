@@ -25,8 +25,6 @@ Currently learning **Java**, **Python**, web stack technologies, and diving deep
 ## 📚 Top Repositories
 
 - [Python](https://github.com/lightning4747/Python)
-- [Bank](https://github.com/lightning4747/Bank)
-- [github](https://github.com/lightning4747/github)
 - [Java](https://github.com/lightning4747/Java)
 - [Javascript-](https://github.com/lightning4747/Javascript-)
 
