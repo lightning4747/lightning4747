@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm lightning4747!
 
-<!--
-**lightning4747/lightning4747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **student** passionate about exploring the world of software development!  
+Currently learning **Java**, **Python**, web stack technologies, and diving deep into **AI development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- **AI Development:** Exploring machine learning, neural networks, and intelligent systems.
+- **Web Development:** Building modern web applications and mastering backend/frontend skills.
+- **Problem Solving:** Tackling coding challenges and algorithmic puzzles to sharpen my skills.
+
+---
+
+## 🛠️ Languages & Tools
+
+- **Java**
+- **Python**
+- **HTML/CSS/JavaScript**
+- **AI/ML frameworks (beginner)**
+
+---
+
+## 📚 Top Repositories
+
+- [Python](https://github.com/lightning4747/Python)
+- [Bank](https://github.com/lightning4747/Bank)
+- [github](https://github.com/lightning4747/github)
+- [Java](https://github.com/lightning4747/Java)
+- [Javascript-](https://github.com/lightning4747/Javascript-)
+
+---
+
+## 🌱 Fun Fact
+
+> I appreciate wisdom and experience—especially from women 4-5 years older than me (and I wouldn’t say no to someone who’s 35 either 😉).
+
+---
+
+Feel free to connect, share ideas, or check out my projects!  
+Happy coding! 🚀
