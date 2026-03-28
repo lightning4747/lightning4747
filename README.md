@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**lightning4747**](https://github.com/lightning4747), a programmer.
+I'm [**lightning4747**](https://lightning4747.github.io/lightning/), a programmer.
 
 I am interested in web development and machine learning.
 
